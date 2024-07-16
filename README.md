@@ -1,0 +1,50 @@
+# Algoritma 101 Dersi - 10 Haftalık Konu Planı
+
+- Hafta 1: Algoritma Nedir?
+  - Algoritmanın Tanımı
+  - Algoritma ve Program Arasındaki Fark
+  - Algoritmanın Önemi
+  - Algoritma Yazma Kuralları
+- Hafta 2: Temel Veri Yapıları
+  - Değişkenler ve Veri Türleri
+  - Diziler ve Listeler
+  - Yığınlar (Stacks) ve Kuyruklar (Queues)
+  - Bağlantılı Listeler (Linked Lists)
+- Hafta 3: Temel Algoritma Yapıları
+  - Sıralı (Sequential) Algoritmalar
+  - Koşullu (Conditional) Algoritmalar
+  - Döngüler (Loops)
+  - Rekürsif (Recursive) Algoritmalar
+- Hafta 4: Sıralama Algoritmaları
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort ve Quick Sort'a Giriş
+- Hafta 5: Arama Algoritmaları
+  - Doğrusal Arama (Linear Search)
+  - İkili Arama (Binary Search)
+  - Arama Algoritmalarının Performans Analizi
+- Hafta 6: Rekürsiyon
+  - Rekürsiyonun Temelleri
+  - Rekürsiyonun Kullanım Alanları
+  - Rekürsif Algoritmaların Performans Analizi
+  - Rekürsif vs. İteratif Algoritmalar
+- Hafta 7: Grafik ve Ağaç Algoritmaları
+  - Grafiklerin Temelleri
+  - Derinlik Öncelikli Arama (DFS) ve Genişlik Öncelikli Arama (BFS)
+  - Ağaç Yapıları ve Temel Kavramlar
+  - İkili Arama Ağaçları (Binary Search Trees)
+- Hafta 8: Dinamik Programlama
+  - Dinamik Programlamanın Temelleri
+  - Alt Problemlerin Çözümü
+  - Örnek Dinamik Programlama Soruları ve Çözümleri
+- Hafta 9: Karmaşıklık Teorisi
+  - Big-O Notasyonu
+  - Algoritma Analizi
+  - Zaman ve Uzay Karmaşıklığı
+  - NP-Tam Problemler
+- Hafta 10: Algoritma Tasarım Teknikleri
+  - Böl ve Fethet (Divide and Conquer)
+  - Greedy Algoritmalar
+  - Geri İzleme (Backtracking)
+  - Örnek Problemler ve Çözümleri
